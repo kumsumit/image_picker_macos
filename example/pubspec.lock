@@ -45,10 +45,10 @@ packages:
     dependency: transitive
     description:
       name: cross_file
-      sha256: fd832b5384d0d6da4f6df60b854d33accaaeb63aa9e10e736a87381f08dee2cb
+      sha256: "55d7b444feb71301ef6b8838dbc1ae02e63dd48c8773f3810ff53bb1e2945b32"
       url: "https://pub.dev"
     source: hosted
-    version: "0.3.3+5"
+    version: "0.3.4+1"
   csslib:
     dependency: transitive
     description:
@@ -110,10 +110,10 @@ packages:
     dependency: transitive
     description:
       name: http
-      sha256: "759d1a329847dd0f39226c688d3e06a6b8679668e350e2891a6474f8b4bb8525"
+      sha256: "761a297c042deedc1ffbb156d6e2af13886bb305c2a343a4d972504cd67dd938"
       url: "https://pub.dev"
     source: hosted
-    version: "1.1.0"
+    version: "1.2.1"
   http_parser:
     dependency: transitive
     description:
@@ -134,18 +134,10 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "83b9c6541f46e5260b3ef70ae41f4299e7175a6c"
+      resolved-ref: "4f58213d564423b4c29bb4e08de264f5c5a6c940"
       url: "https://github.com/kumsumit/image_picker_platform_interface.git"
     source: git
-    version: "2.9.1"
-  js:
-    dependency: transitive
-    description:
-      name: js
-      sha256: f2c445dce49627136094980615a031419f7f3eb393237e4ecd97ac15dea343f3
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.6.7"
+    version: "2.9.4"
   leak_tracker:
     dependency: transitive
     description:
@@ -198,10 +190,10 @@ packages:
     dependency: "direct main"
     description:
       name: mime
-      sha256: e4ff8e8564c03f255408decd16e7899da1733852a9110a58fe6d1b817684a63e
+      sha256: "2e123074287cc9fd6c09de8336dae606d1ddb88d9ac47358826db698c176a1f2"
       url: "https://pub.dev"
     source: hosted
-    version: "1.0.4"
+    version: "1.0.5"
   path:
     dependency: transitive
     description:
@@ -215,10 +207,10 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "1d6e1c5fae93958d50ce0595ef687d8195088d21"
+      resolved-ref: "0258f99fc7505eebfc1332998552f585cb27751d"
       url: "https://github.com/kumsumit/plugin_platform_interface.git"
     source: git
-    version: "2.1.6"
+    version: "2.1.8"
   sky_engine:
     dependency: transitive
     description: flutter
@@ -293,46 +285,46 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "4c91740532e1fae3214a4774efa250909b52dbca"
+      resolved-ref: dc03666eeeff98b7cf08a2352814fb581c5e7ae9
       url: "https://github.com/kumsumit/video_player.git"
     source: git
-    version: "2.7.1"
+    version: "2.8.3"
   video_player_android:
     dependency: transitive
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "1746a07a5659d23096a7f3b1df03baa32312d19a"
+      resolved-ref: "1fab53aef71d77fbb52f6631d371f41a0add0925"
       url: "https://github.com/kumsumit/video_player_android.git"
     source: git
-    version: "2.4.10"
+    version: "2.4.12"
   video_player_avfoundation:
     dependency: transitive
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "5e901e5db32d7b1ba73d4ee30b8917813aeceeea"
+      resolved-ref: de3d3ee8511a4e1e1940f41178fbea2d7c2f8589
       url: "https://github.com/kumsumit/video_player_avfoundation.git"
     source: git
-    version: "2.4.10"
+    version: "2.5.6"
   video_player_platform_interface:
     dependency: transitive
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "61ed3e9838c39f024bb9646e80f8aad532b83bfe"
+      resolved-ref: b235bcbf90166736d0f0370414498499314f9491
       url: "https://github.com/kumsumit/video_player_platform_interface.git"
     source: git
-    version: "6.2.1"
+    version: "6.2.2"
   video_player_web:
     dependency: transitive
     description:
       path: "."
       ref: HEAD
-      resolved-ref: ac50c076a63207c30c9478612923bedec2727cfc
+      resolved-ref: "2fd1a0b7b35577a0011fb23842ac67b7e3f2ce40"
       url: "https://github.com/kumsumit/video_player_web.git"
     source: git
-    version: "2.1.0"
+    version: "2.3.0"
   vm_service:
     dependency: transitive
     description:
@@ -341,6 +333,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "13.0.0"
+  web:
+    dependency: transitive
+    description:
+      name: web
+      sha256: "97da13628db363c635202ad97068d47c5b8aa555808e7a9411963c533b449b27"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.5.1"
 sdks:
   dart: ">=3.3.1 <4.0.0"
   flutter: ">=3.19.3"

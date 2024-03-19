@@ -33,9 +33,9 @@
     },
     {
       "name": "cross_file",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/cross_file-0.3.3+5",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/cross_file-0.3.4+1",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.3"
     },
     {
       "name": "csslib",
@@ -87,9 +87,9 @@
     },
     {
       "name": "http",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/http-1.1.0",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/http-1.2.1",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.3"
     },
     {
       "name": "http_parser",
@@ -105,15 +105,9 @@
     },
     {
       "name": "image_picker_platform_interface",
-      "rootUri": "file:///home/sumit/.pub-cache/git/image_picker_platform_interface-83b9c6541f46e5260b3ef70ae41f4299e7175a6c/",
+      "rootUri": "file:///home/sumit/.pub-cache/git/image_picker_platform_interface-4f58213d564423b4c29bb4e08de264f5c5a6c940/",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
-    },
-    {
-      "name": "js",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/js-0.6.7",
-      "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.3"
     },
     {
       "name": "leak_tracker",
@@ -153,9 +147,9 @@
     },
     {
       "name": "mime",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/mime-1.0.4",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/mime-1.0.5",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "3.2"
     },
     {
       "name": "path",
@@ -165,9 +159,9 @@
     },
     {
       "name": "plugin_platform_interface",
-      "rootUri": "file:///home/sumit/.pub-cache/git/plugin_platform_interface-1d6e1c5fae93958d50ce0595ef687d8195088d21/",
+      "rootUri": "file:///home/sumit/.pub-cache/git/plugin_platform_interface-0258f99fc7505eebfc1332998552f585cb27751d/",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.3"
     },
     {
       "name": "sky_engine",
@@ -225,33 +219,33 @@
     },
     {
       "name": "video_player",
-      "rootUri": "file:///home/sumit/.pub-cache/git/video_player-4c91740532e1fae3214a4774efa250909b52dbca/",
+      "rootUri": "file:///home/sumit/.pub-cache/git/video_player-dc03666eeeff98b7cf08a2352814fb581c5e7ae9/",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "3.3"
     },
     {
       "name": "video_player_android",
-      "rootUri": "file:///home/sumit/.pub-cache/git/video_player_android-1746a07a5659d23096a7f3b1df03baa32312d19a/",
+      "rootUri": "file:///home/sumit/.pub-cache/git/video_player_android-1fab53aef71d77fbb52f6631d371f41a0add0925/",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "3.3"
     },
     {
       "name": "video_player_avfoundation",
-      "rootUri": "file:///home/sumit/.pub-cache/git/video_player_avfoundation-5e901e5db32d7b1ba73d4ee30b8917813aeceeea/",
+      "rootUri": "file:///home/sumit/.pub-cache/git/video_player_avfoundation-de3d3ee8511a4e1e1940f41178fbea2d7c2f8589/",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "3.3"
     },
     {
       "name": "video_player_platform_interface",
-      "rootUri": "file:///home/sumit/.pub-cache/git/video_player_platform_interface-61ed3e9838c39f024bb9646e80f8aad532b83bfe/",
+      "rootUri": "file:///home/sumit/.pub-cache/git/video_player_platform_interface-b235bcbf90166736d0f0370414498499314f9491/",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "3.3"
     },
     {
       "name": "video_player_web",
-      "rootUri": "file:///home/sumit/.pub-cache/git/video_player_web-ac50c076a63207c30c9478612923bedec2727cfc/",
+      "rootUri": "file:///home/sumit/.pub-cache/git/video_player_web-2fd1a0b7b35577a0011fb23842ac67b7e3f2ce40/",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "3.3"
     },
     {
       "name": "vm_service",
@@ -260,13 +254,19 @@
       "languageVersion": "3.0"
     },
     {
+      "name": "web",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/web-0.5.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
       "name": "example",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.3"
     }
   ],
-  "generated": "2024-03-19T10:48:25.633766Z",
+  "generated": "2024-03-19T16:22:17.799367Z",
   "generator": "pub",
   "generatorVersion": "3.3.1"
 }
